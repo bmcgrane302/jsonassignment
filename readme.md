@@ -24,20 +24,20 @@ Create a route "/students" that takes json data like the following:
   "class": "g58",
   "students": [
       {
-        name:"kevin",
-        class:"g34"
+        "name":"kevin",
+        "class":"g34"
       },
       {
-        name:"chris",
-        class:"g58"
+        "name":"chris",
+        "class":"g58"
       },
       {
-        name:"marie",
-        class:"g66"
+        "name":"marie",
+        "class":"g66"
       },
       {
-        name:"james",
-        class:"g58"
+        "name":"james",
+        "class":"g58"
       },
     ]
 }
